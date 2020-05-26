@@ -1,2 +1,2 @@
-server:
- port: 8080
+config:
+ devt: 8080
